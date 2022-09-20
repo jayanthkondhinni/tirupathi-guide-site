@@ -66,7 +66,7 @@ body{
     justify-content: space-around;
     align-items: center;
     margin-top: 100px;
-    margin-left: 70px;
+    /*margin-left: 70px;*/
 }
 #details{
     display: flex;
