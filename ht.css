@@ -57,6 +57,7 @@ body{
     justify-content:space-evenly;
     align-items: center;
     margin-top: 100px;
+    font-family: 'Orbitron', sans-serif;
 }
 
 #places2{
@@ -66,6 +67,7 @@ body{
     justify-content: space-around;
     align-items: center;
     margin-top: 100px;
+    font-family: 'Orbitron', sans-serif;
     /*margin-left: 70px;*/
 }
 #details{
